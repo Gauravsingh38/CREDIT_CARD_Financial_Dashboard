@@ -2,6 +2,12 @@
 
 Credit Card Transaction and Customer Dashboard using Power BI
 
+1. Project objective 
+2. Data from SQL
+ 3. Data processing & DAX
+ 4. Dashboard & insights
+ 5. Export & share project
+
 
 Project Insights- Week 53 (31st Dec)
  WoW change: 
